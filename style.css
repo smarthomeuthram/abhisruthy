@@ -385,7 +385,7 @@ code {
 
 .ganesh-icon svg,
 .ganesh-icon .mono-ganesh {
-  width: 250px;
+  width: 90px;
   height: auto;
   /* Use white or matching accent color, and reduce opacity for watermark effect */
   filter: brightness(1) invert(1);
