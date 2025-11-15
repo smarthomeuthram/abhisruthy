@@ -908,11 +908,12 @@ body {
 }
 
 /* ============================================
-   Hero Section     min-height: 100vh;
+   Hero Section     
 
    ============================================ */
 
 .hero {
+    min-height: 100vh;
     background: linear-gradient(135deg, var(--color-teal-500) 0%, var(--color-brown-600) 100%);
     color: var(--white);
     display: flex;
